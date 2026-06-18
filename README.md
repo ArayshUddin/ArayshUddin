@@ -52,32 +52,6 @@ I have hands-on experience with **Python, FastAPI, LangChain, LangGraph, OpenAI,
 
 ---
 
-## Experience
-
-### Generative AI Developer — Navtcc
-
-Worked on LLM-powered applications, Agentic AI systems, RAG pipelines, and intelligent automation workflows.
-
-- Developed Generative AI and Agentic AI applications
-- Built multi-step AI agents using LangChain and LangGraph
-- Integrated OpenAI, Gemini, and other LLM APIs
-- Developed RAG systems using embeddings and vector databases
-- Implemented prompt-routing workflows
-- Built backend APIs using Python and FastAPI
-- Performed data preprocessing and dataset preparation
-- Improved AI response accuracy, relevance, and reliability
-
----
-
-
-## GitHub Stats
-
-![Araysh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arayshuddin&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arayshuddin&layout=compact&hide_border=true)
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/araysh-uddin-5740a22b2)
